@@ -1,4 +1,4 @@
-# Guide to improve source code
+# Guide to improve source code. Please refer Refactor.tsx file
 
 # 1.
 
