@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Kanit", serif;
+}
+
+.info-card {
+  background-image: linear-gradient(to top right, #4285f4, #290f6b);
+}
+
+.result-card {
+  background-image: linear-gradient(to top right, #cd1225, #885df5);
+}
